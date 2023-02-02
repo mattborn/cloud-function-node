@@ -1,0 +1,19 @@
+{
+  "name": "cloud-function-node",
+  "version": "1.0.0",
+  "author": "Matt Born",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattborn/cloud-function-node.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.1.0",
+    "cors": "^2.8.5",
+    "node-fetch-commonjs": "^3.2.4"
+  }
+}
